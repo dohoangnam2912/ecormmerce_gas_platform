@@ -1,0 +1,33 @@
+{
+  "name": "ecommerce_gas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "compression": "^1.8.0",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.13.1",
+    "morgan": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dohoangnam2912/ecormmerce_gas_platform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dohoangnam2912/ecormmerce_gas_platform/issues"
+  },
+  "homepage": "https://github.com/dohoangnam2912/ecormmerce_gas_platform#readme"
+}
